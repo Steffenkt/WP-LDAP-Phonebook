@@ -1,2 +1,2 @@
-# WP-LDAP-Phonebook
-WP LDAP Phonebook
+# WordPress LDAP Phonebook
+
